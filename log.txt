@@ -1,0 +1,20 @@
+Host: 192.168.0.88
+Date: 2019-09-21 16:45:50
+Module: 
+Отправлено сообщение от Владислав Тишунин (v.tish@mail.ru)
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent
+	/var/www/bitrix/bitrix/modules/main/classes/general/component.php:594
+	/var/www/bitrix/bitrix/modules/main/classes/general/component.php:653
+	/var/www/bitrix/bitrix/modules/main/classes/general/main.php:1038
+	/var/www/bitrix/index.php:8
+----------
+Host: 192.168.0.88
+Date: 2019-09-21 17:10:31
+Module: 
+Отправлено сообщение от Владислав Тишунин (v.tish@mail.ru)
+    include < CBitrixComponent::__includeComponent < CBitrixComponent::includeComponent < CAllMain::IncludeComponent
+	/var/www/bitrix/bitrix/modules/main/classes/general/component.php:594
+	/var/www/bitrix/bitrix/modules/main/classes/general/component.php:653
+	/var/www/bitrix/bitrix/modules/main/classes/general/main.php:1038
+	/var/www/bitrix/index.php:8
+----------
